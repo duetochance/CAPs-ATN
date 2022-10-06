@@ -1,0 +1,5 @@
+Index	value
+PREFIX	sub-
+Code directory	/home/sbombieri/CODE/Code/
+Data directory	/home/sbombieri/DATA/TauAmyFDG/
+Windows Data Directory	/home/sbombieri/DATA/TauAmyFDG/
